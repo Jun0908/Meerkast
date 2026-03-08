@@ -1,0 +1,5 @@
+# Codex/agent metadata
+.agent/
+.agents/
+.claude/
+skills-lock.json
