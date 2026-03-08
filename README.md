@@ -12,6 +12,11 @@
 
 # Meerkat Workshop - Distributed Decision Demo
 
+<p align="center">
+  <a href="https://test-test-fawn-phi.vercel.app/">Demo</a> ·
+  <a href="https://www.canva.com/design/DAHDV65RocE/PGRWN6F9yRFBjp5mtmKfkA/edit">Pitch</a>
+</p>
+
 Meerkat Workshop is a single-screen simulation that visualizes distributed decision-making in a workshop.
 Each agent only reads local area conditions, emits `support/attack` signals, and decisions are confirmed when:
 
@@ -108,3 +113,4 @@ The app sends each agent's local context packet and expects structured JSON outp
 
 - This repository focuses on demo clarity and explainability, not production orchestration.
 - Build behavior may vary by local environment and workspace layout.
+
