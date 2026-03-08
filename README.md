@@ -14,7 +14,8 @@
 
 <p align="center">
   <a href="https://test-test-fawn-phi.vercel.app/">Demo</a> ·
-  <a href="https://www.canva.com/design/DAHDV65RocE/PGRWN6F9yRFBjp5mtmKfkA/edit">Pitch</a>
+  <a href="https://www.canva.com/design/DAHDV65RocE/PGRWN6F9yRFBjp5mtmKfkA/edit">Pitch</a> ·
+  <a href="https://notebooklm.google.com/notebook/337a5e10-1137-4a0f-89a2-4b50802a5cd9">Movie</a>
 </p>
 
 Meerkat Workshop is a single-screen simulation that visualizes distributed decision-making in a workshop.
@@ -113,4 +114,5 @@ The app sends each agent's local context packet and expects structured JSON outp
 
 - This repository focuses on demo clarity and explainability, not production orchestration.
 - Build behavior may vary by local environment and workspace layout.
+
 
