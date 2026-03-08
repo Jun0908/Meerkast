@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/sprites.png" alt="Meerkat Workshop" width="120" />
+  <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/7523dee8-1926-40ac-a203-2d2e8b67d173" />
 </p>
 
 <p align="center">
@@ -114,5 +114,6 @@ The app sends each agent's local context packet and expects structured JSON outp
 
 - This repository focuses on demo clarity and explainability, not production orchestration.
 - Build behavior may vary by local environment and workspace layout.
+
 
 
